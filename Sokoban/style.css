@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+#map {
+  
+}
+
+#map img {
+  margin: 0;
+}
+
+.rowContainer {
+  margin: -4px;
+}
+
+.rowContainer img {
+  position: relative;
+}
+
+.tileRowHeight {
+  height: 40px;
+}
+
+.tile-space {
+  background-image: url("/sprites/space.png");
+  background-size: 40px 40px;
+}
+
+.tile-wall {
+  background-image: url("/sprites/wall.png");
+  background-size: 40px 40px;
+}
+
+.tile-goal {
+  background-image: url("/sprites/block-goal.png");
+  background-size: 40px 40px;
+}
+
+
+.entity-block {
+  background-image: url("/sprites/crate.png");
+  background-size: 40px 40px;
+}
+
+.entity-block-goal {
+  background-image: url("/sprites/crate-done.png");
+  background-size: 40px 40px;
+}
+
+.entity-player {
+  background-image: url("/sprites/player.png");
+  background-size: 40px 40px;
+}
