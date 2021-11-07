@@ -25,32 +25,32 @@
 }
 
 .tile-space {
-  background-image: url("/sprites/space.png");
+  background-image: url("./sprites/space.png");
   background-size: 40px 40px;
 }
 
 .tile-wall {
-  background-image: url("/sprites/wall.png");
+  background-image: url("./sprites/wall.png");
   background-size: 40px 40px;
 }
 
 .tile-goal {
-  background-image: url("/sprites/block-goal.png");
+  background-image: url("./sprites/block-goal.png");
   background-size: 40px 40px;
 }
 
 
 .entity-block {
-  background-image: url("/sprites/crate.png");
+  background-image: url("./sprites/crate.png");
   background-size: 40px 40px;
 }
 
 .entity-block-goal {
-  background-image: url("/sprites/crate-done.png");
+  background-image: url("./sprites/crate-done.png");
   background-size: 40px 40px;
 }
 
 .entity-player {
-  background-image: url("/sprites/player.png");
+  background-image: url("./sprites/player.png");
   background-size: 40px 40px;
 }
